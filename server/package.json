@@ -17,7 +17,7 @@
     "dotenv": "^2.0.0",
     "express": "^4.13.4",
     "jsonwebtoken": "^8.5.1",
-    "knex": "^0.11.10",
+    "knex": "^2.4.0",
     "knex-logger": "^0.1.0",
     "morgan": "^1.7.0",
     "pg": "^6.0.2"
